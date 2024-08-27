@@ -43,6 +43,9 @@ Certainly! Here’s the full README text in plain text format:
 
 3. **Add Verilog Files:**
    Add the Verilog files from the `src/` directory to your Vivado project.
+   
+3a. **Alternate**
+   Alternatively, copy the files included in the folder. Open Xilinx Vivado and open the `CA_Assignment_2.xpr` file as a new project.
 
 4. **Run Simulation:**
    Use the testbench provided in the `tb/` directory to simulate the MIPS processor. This will allow you to verify the functionality of the processor.
