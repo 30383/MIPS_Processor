@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CA_Assignment_2.srcs/sources_1/new/ALU.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/A_mux.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/BIG_UNIT.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/B_mux.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/Data_Memory.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/EXMEM_PR.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/IDEX_PR.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/IDIX_PR.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/MEMWB_PR.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/Main_control.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/PC_module.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/REG_FILE.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/SE.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/TOP_MODULE.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/lastmux.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/rt_rd_mux.v" \
+"../../../../CA_Assignment_2.srcs/sources_1/new/sw_mux.v" \
+"../../../../CA_Assignment_2.srcs/sim_1/new/TOP_MODULE_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

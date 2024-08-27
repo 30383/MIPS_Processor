@@ -1,0 +1,24 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sim_1/new/TOP_MODULE_tb.v,1714083503,verilog,,,,TOP_MODULE_tb,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/ALU.v,1713981925,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/A_mux.v,,ALU,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/A_mux.v,1713980713,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/BIG_UNIT.v,,A_mux,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/BIG_UNIT.v,1714145094,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/B_mux.v,,BIG_UNIT,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/B_mux.v,1713992403,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Data_Memory.v,,B_mux,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Data_Memory.v,1714144989,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/EXMEM_PR.v,,Data_Memory,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/EXMEM_PR.v,1714073965,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/IDEX_PR.v,,EXMEM_PR,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/IDEX_PR.v,1714069106,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/IDIX_PR.v,,IDEX_PR,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/IDIX_PR.v,1714082483,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Instruction_Memory.v,,IFID_PR,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Instruction_Memory.v,1714065800,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/MEMWB_PR.v,,Instruction_Memory,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/MEMWB_PR.v,1714074211,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Main_control.v,,MEMWB_PR,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/Main_control.v,1714089885,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/PC_module.v,,Main_control,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/PC_module.v,1713977544,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/REG_FILE.v,,PC_module,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/REG_FILE.v,1714084287,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/SE.v,,REG_FILE,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/SE.v,1713981234,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/TOP_MODULE.v,,SE,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/TOP_MODULE.v,1714146477,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/lastmux.v,,TOP_MODULE,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/lastmux.v,1713986503,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/rt_rd_mux.v,,lastmux,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/rt_rd_mux.v,1713981599,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/sw_mux.v,,rt_rd_mux,,,,,,,,
+/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sources_1/new/sw_mux.v,1713982449,verilog,,/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.srcs/sim_1/new/TOP_MODULE_tb.v,,sw_mux,,,,,,,,

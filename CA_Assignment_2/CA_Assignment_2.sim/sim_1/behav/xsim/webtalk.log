@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Apr 26 01:33:21 2024
+# Process ID: 75544
+# Current directory: /home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/xsim.dir/TOP_MODULE_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/xsim.dir/TOP_MODULE_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+extra characters after close-quote
+    while executing
+"webtalk_add_data -client project -key os_release -value "NAME="Red Hat Enterprise Linux Server"" -context "user_environment"
+webtalk_add_data -client ..."
+    (file "/home/24CAP1G13/CA_Assignment_2/CA_Assignment_2.sim/sim_1/behav/xsim/xsim.dir/TOP_MODULE_tb_behav/webtalk/xsim_webtalk.tcl" line 19)
+INFO: [Common 17-206] Exiting Webtalk at Fri Apr 26 01:33:21 2024...
